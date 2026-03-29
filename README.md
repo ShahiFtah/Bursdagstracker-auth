@@ -2,6 +2,9 @@
 
 En fullstack webapplikasjon for å administrere og automatisk varsle om fødselsdager i en organisasjon eller gruppe. Bygget med moderne teknologi og fokus på universell utforming.
 
+Denne er med login-funksjon. Registrer eller logg inn med google account. Lag din egen separat versjon.
+
+https://bursdagstracker-auth.vercel.app/
 
 ---
 
