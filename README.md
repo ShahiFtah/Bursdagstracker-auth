@@ -2,7 +2,6 @@
 
 En fullstack webapplikasjon for å administrere og automatisk varsle om fødselsdager i en organisasjon eller gruppe. Bygget med moderne teknologi og fokus på universell utforming.
 
-**Live demo:** [bursdagstracker.vercel.app](https://bursdagstracker.vercel.app)
 
 ---
 
