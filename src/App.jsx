@@ -1,4 +1,5 @@
 import { useState, useMemo, useEffect } from "react";
+import "./styles.css";
 
 const SUPABASE_URL = "https://nveqoihntusvwnbfecqn.supabase.co";
 const SUPABASE_ANON = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im52ZXFvaWhudHVzdnduYmZlY3FuIiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzQ3ODA1NDksImV4cCI6MjA5MDM1NjU0OX0.UzfkPWCkU19M8mlT4TSzFszCQ92qhGZsB5Pl8rjIAng";
