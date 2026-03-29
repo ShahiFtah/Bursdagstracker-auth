@@ -331,7 +331,6 @@ function AuthPage({ onSession }) {
   };
 
   return (
-    <style>{css}</style>
     <div className="bt-auth-page">
 
       {/* Left panel */}
